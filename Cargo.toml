@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 prime-factor = "0.4.3"
+hex = "0.4.3"
